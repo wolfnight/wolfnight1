@@ -224,31 +224,35 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "info",
+    "welcome",
+    "linkpv",
+    "tagall"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {103788804,148673133,131702074,119622060,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[wolfnight Telegram Bot v3 
+  
+Open Source
 An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+Wolf- A powerful Anti spam with custom sensitivity For each group
+recalcitrant to any kind of spamming(Xy bots,name|photo changers and ...)
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@mehdi_killer78 [Founder]
+
+@ShadowAdmin [ Programer & Developer]
+
+@lonelywild [Developer]
+
+@Dehkadeh4[Manager]
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+
+@wolf_Anti_spam [persian],
 ]],
     help_text_realm = [[
 Realm Commands:
