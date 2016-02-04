@@ -228,7 +228,8 @@ function create_config( )
     "info",
     "welcome",
     "linkpv",
-    "tagall"
+    "tagall",
+    "plugins"
     },
     sudo_users = {103788804,148673133,131702074,119622060,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
