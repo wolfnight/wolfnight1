@@ -244,15 +244,11 @@ recalcitrant to any kind of spamming(Xy bots,name|photo changers and ...)
 Admins
 
 @mehdi_killer78 [Founder]
-
 @ShadowAdmin [ Programer & Developer]
-
 @lonelywild [Developer]
-
 @Dehkadeh4[Manager]
 
 Our channels
-
 @wolf_Anti_spam [persian],
 ]],
     help_text_realm = [[
