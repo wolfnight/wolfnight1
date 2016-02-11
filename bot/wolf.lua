@@ -220,6 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
+    "sms",
     "download_media",
     "invite",
     "all",
